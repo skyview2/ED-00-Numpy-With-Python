@@ -1,0 +1,10 @@
+Numpy is a very important for data processing
+
+It's a numeric computing library, and it is very small
+
+In python, processing numbers is very slow, when you go down to very deep levels of data, then python is not right for that. 
+
+Numpy solves that, and its a numeric processing library:
+
+usually, numpy is not used by ppl like us, however other tools we use are built on top of numpy
+
